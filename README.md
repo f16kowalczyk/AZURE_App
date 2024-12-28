@@ -23,5 +23,19 @@
 
  ![alt text](image-5.png)
 
+next go to resource
+
+![alt text](image-6.png)
+
+now you can check your domain, status, and create nonstandard domain.
+
+![alt text](image-7.png)
+
+If you want add app to your domain check below link
+
+https://learn.microsoft.com/pl-pl/azure/app-service/quickstart-dotnetcore?tabs=netframework48&pivots=development-environment-vs
+
+
+
 
 
